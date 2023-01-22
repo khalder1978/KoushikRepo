@@ -2,10 +2,8 @@ import numpy
 
 a=20		
 b=20
-c=25
-d=154
+x=30
+sum = a+b+x
 
-sum = a+b+c+d
-
-print(" sum of two numbers is =") sum
+print(" sum of three numbers is =") sum
 
