@@ -1,6 +1,6 @@
 import numpy
 
-a=20		
+a=250		
 b=20
 x=30
 sum = a+b+x
